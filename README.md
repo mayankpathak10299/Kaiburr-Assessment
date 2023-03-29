@@ -26,8 +26,7 @@ contains this string and return one or more servers found. Return 404 if nothing
 
 “Server” objects should be stored in MongoDB database.
 
-## Be sure that you can show how your application responds to requests using postman, curl or
-any other HTTP client.
+- Be sure that you can show how your application responds to requests using postman, curl or any other HTTP client.
 ---
 # Task-2-Swagger codegen.
 - Create the same REST API as in task #1, but use https://editor.swagger.io/ to create your API
