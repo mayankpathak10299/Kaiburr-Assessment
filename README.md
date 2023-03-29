@@ -46,18 +46,6 @@ curl or any other HTTP client.
 
 ---
 
-# Task-3-Kubernetes.
-- Dockerfiles and build docker images. Create kubernetes yaml manifests for the application (at least a deployment and a service). 
-- The following requirements should be fulfilled:
-- you can bring your application up by applying your yaml manifests
-- mongodb is running in a separate pod
-- the application should take mongo connection details from the environment variables
-- the app endpoints should be available from your host machine
-- a persistent volume should be used to store the MongoDB data. I.e., when you delete
-the MongoDB pod the records in the db should not disappear.
-
----
-
 # Task-4-WEB UI Forms.
 - Create a basic WEB UI frontend for an application that you created for #1 or #2 using any UI
 framework of your choice. 
