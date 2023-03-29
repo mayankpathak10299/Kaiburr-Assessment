@@ -1,6 +1,7 @@
 # Kaiburr-Assessment
-Name: Mayank Pathak
-Reg. No: 19BCE10299
+**Name: Mayank Pathak
+
+**Reg. No: 19BCE10299
 # Task-1-Java REST API example
 ---
 Implement an application in java which provides a REST API with endpoints for searching,
