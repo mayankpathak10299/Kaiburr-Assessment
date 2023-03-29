@@ -1,5 +1,3 @@
-# Kaiburr-Assessment
- All task of the assesment
 # Kaiburr Task1 (Java REST API example)
 ---
 Implement an application in java which provides a REST API with endpoints for searching,
@@ -28,5 +26,11 @@ Be sure that you can show how your application responds to requests using postma
 any other HTTP client.
 
 ---
-# Task-6-Data-Science-Example-
-A sample machine learning program for classify the gender of each face based on its physical features.
+
+# Information & Documents for Task 1 of Kaiburr
+1. REST APIs are crucial in software development for their standardized interface.
+2. They use HTTP verbs to interact with resources.
+3. Implementation details of the server are hidden from clients, providing a uniform interface.
+4. Endpoints need to be defined for actions such as searching, creating, and deleting server objects.
+5. MongoDB is used to store server objects and careful planning is necessary for a successful implementation.
+---
