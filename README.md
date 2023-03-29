@@ -40,6 +40,6 @@ dockerfiles and build docker images. Create kubernetes yaml manifests for the ap
 - a persistent volume should be used to store the MongoDB data. I.e., when you delete
 the MongoDB pod the records in the db should not disappear.
 ---
-# Task-6-Data-Science-Example-
+# Task-6-Data-Science-Example.
 A sample machine learning program for classify the gender of each face based on its physical features.
 ---
