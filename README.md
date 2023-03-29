@@ -3,7 +3,9 @@ Name: Mayank Pathak
 
 Reg. No: 19BCE10299
 # Task-1-Java REST API example
+
 ---
+
 - Implement an application in java which provides a REST API with endpoints for searching,
 creating and deleting “server” objects:
 
@@ -24,10 +26,12 @@ example:
 - GET (find) servers by name. The parameter is a string. Must check if a server name
 contains this string and return one or more servers found. Return 404 if nothing is found.
 
-“Server” objects should be stored in MongoDB database.
+- “Server” objects should be stored in MongoDB database.
 
 - Be sure that you can show how your application responds to requests using postman, curl or any other HTTP client.
+
 ---
+
 # Task-2-Swagger codegen.
 - Create the same REST API as in task #1, but use https://editor.swagger.io/ to create your API
 definition and generate the server code. 
@@ -41,6 +45,7 @@ same functionality as described in task #1, but now in java.
 curl or any other HTTP client.
 
 ---
+
 # Task-3-Kubernetes.
 - Dockerfiles and build docker images. Create kubernetes yaml manifests for the application (at least a deployment and a service). 
 - The following requirements should be fulfilled:
@@ -50,12 +55,17 @@ curl or any other HTTP client.
 - the app endpoints should be available from your host machine
 - a persistent volume should be used to store the MongoDB data. I.e., when you delete
 the MongoDB pod the records in the db should not disappear.
+
 ---
+
 # Task-4-WEB UI Forms.
 - Create a basic WEB UI frontend for an application that you created for #1 or #2 using any UI
 framework of your choice. 
 - You should be able to create, show and delete records from your UI.
+
 ---
+
 # Task-6-Data-Science-Example.
 - A sample machine learning program for classify the gender of each face based on its physical features.
+
 ---
